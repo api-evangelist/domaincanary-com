@@ -1,4 +1,4 @@
-# domaincanary-com
+# DomainCanary
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,118 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 domaincanary-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://domaincanary.com/
+
+**Areas:** DMARC · Hosted SPF · Hosted MTA-STS · MSP Tools
+
+## DomainCanary on APIs.io
+
+Everything profiled for DomainCanary is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/domaincanary-com/](https://apis.io/providers/domaincanary-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [DomainCanary Free API](https://apis.io/apis/domaincanary-com/domaincanary-free-api/) — Check a domain's email authentication and test SPF changes, with no key.
+- [DomainCanary C API](https://apis.io/apis/domaincanary-com/domaincanary-com-c-api/) — The C API from DomainCanary — 1 operation(s) for c.
+- [DomainCanary Spf Preflight API](https://apis.io/apis/domaincanary-com/domaincanary-com-spf-preflight-api/) — The Spf Preflight API from DomainCanary — 1 operation(s) for spf preflight.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Domaincanary Com Agentic Access](https://apis.io/agentic-access/domaincanary-com/domaincanary-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Domaincanary Com Context](https://apis.io/jsonld/domaincanary-com/domaincanary-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DomainCanary API Rules](https://apis.io/rules/domaincanary-com/domaincanary-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Domaincanary Com Domain Security](https://apis.io/security/domaincanary-com/domaincanary-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Domaincanary Com Plans Pricing](https://apis.io/plans/domaincanary-com/domaincanary-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://domaincanary.com/)
+- [Documentation](https://domaincanary.com/guides)
+- [Getting started](https://domaincanary.com/guides/dmarc-setup)
+- [API reference](https://domaincanary.com/llms.txt)
+- [Pricing](https://domaincanary.com/pricing)
+- [Terms of service](https://domaincanary.com/terms)
+- [Privacy policy](https://domaincanary.com/privacy)
+- [GitHub](https://github.com/domaincanary)
+
+## API Evangelist rating
+
+**Kin Score 50.7** — developing · rubric 0.27.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 54.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 41.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/domaincanary-com/](https://apis.io/providers/domaincanary-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DomainCanary: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/domaincanary-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
